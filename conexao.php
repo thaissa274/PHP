@@ -1,6 +1,6 @@
 <?php
 
-$host = "localhost";
+$host = "ec2-54-226-165-161.compute-1.amazonaws.com";
 $user = "19022";
 $pass = "19022thaissa";
 $banco = "etim_19022";
